@@ -1,0 +1,4 @@
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car_reg_checker\obj\Debug\netcoreapp2.0\car_reg_checker.csprojResolveAssemblyReference.cache
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car_reg_checker\obj\Debug\netcoreapp2.0\car_reg_checker.csproj.CoreCompileInputs.cache
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car_reg_checker\obj\Debug\netcoreapp2.0\car_reg_checker.AssemblyInfoInputs.cache
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car_reg_checker\obj\Debug\netcoreapp2.0\car_reg_checker.AssemblyInfo.cs

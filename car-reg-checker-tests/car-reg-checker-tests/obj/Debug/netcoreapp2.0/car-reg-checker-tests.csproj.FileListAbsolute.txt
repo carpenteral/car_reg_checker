@@ -1,0 +1,17 @@
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\obj\Debug\netcoreapp2.0\car-reg-checker-tests.csprojResolveAssemblyReference.cache
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\obj\Debug\netcoreapp2.0\car-reg-checker-tests.csproj.CoreCompileInputs.cache
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\obj\Debug\netcoreapp2.0\car-reg-checker-tests.AssemblyInfoInputs.cache
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\obj\Debug\netcoreapp2.0\car-reg-checker-tests.AssemblyInfo.cs
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\bin\Debug\netcoreapp2.0\car-reg-checker-tests.deps.json
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\bin\Debug\netcoreapp2.0\car-reg-checker-tests.runtimeconfig.json
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\bin\Debug\netcoreapp2.0\car-reg-checker-tests.runtimeconfig.dev.json
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\bin\Debug\netcoreapp2.0\car-reg-checker-tests.dll
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\bin\Debug\netcoreapp2.0\car-reg-checker-tests.pdb
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\bin\Debug\netcoreapp2.0\car_reg_utils.dll
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\bin\Debug\netcoreapp2.0\car_reg_utils.pdb
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\obj\Debug\netcoreapp2.0\car-reg-checker-tests.csproj.CopyComplete
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\obj\Debug\netcoreapp2.0\car-reg-checker-tests.dll
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car-reg-checker-tests\obj\Debug\netcoreapp2.0\car-reg-checker-tests.pdb

@@ -1,0 +1,9 @@
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car_reg_utils\bin\Debug\netstandard2.0\car_reg_utils.deps.json
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car_reg_utils\bin\Debug\netstandard2.0\car_reg_utils.dll
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car_reg_utils\bin\Debug\netstandard2.0\car_reg_utils.pdb
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car_reg_utils\obj\Debug\netstandard2.0\car_reg_utils.csprojResolveAssemblyReference.cache
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car_reg_utils\obj\Debug\netstandard2.0\car_reg_utils.csproj.CoreCompileInputs.cache
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car_reg_utils\obj\Debug\netstandard2.0\car_reg_utils.AssemblyInfoInputs.cache
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car_reg_utils\obj\Debug\netstandard2.0\car_reg_utils.AssemblyInfo.cs
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car_reg_utils\obj\Debug\netstandard2.0\car_reg_utils.dll
+C:\Dev\git\car-reg-checker\car-reg-checker-tests\car_reg_utils\obj\Debug\netstandard2.0\car_reg_utils.pdb
