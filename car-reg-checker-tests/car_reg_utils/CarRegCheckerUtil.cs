@@ -6,7 +6,19 @@ namespace car_reg_utils
     {
         public int GetNextInfix(int input)
         {
-            return 02;
+            if(input > 50 && input < 99)
+            {
+                int result = input - 50 + 1;
+                if (result == 50)
+                {
+                    return result - 1;
+                }
+                return result;
+            } else
+            {
+                return 02;
+            }
+            
         }
     }
 }
